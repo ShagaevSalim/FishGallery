@@ -103,10 +103,4 @@ Don't forget to give the project a star! Thanks again!
 - App's code is licensed under the [MIT License](https://opensource.org/licenses/mit-license.html/)
 
 </br>
-
-## Contact
-This application was created on the course ["Android Theory - for Juniors"](https://stepik.org/a/138114)
-
-
-
 <br />
